@@ -11,5 +11,8 @@ file - examines a file and tells what type of data/format it contains(text, imag
 du - measures and displays how much hard drive space files and folders take up
 find - searches for files and folders across directory tree based on names, sizes, or other rules.
 
+# What i learned 
+Simple commands to traverse the terminal
+
 
 
