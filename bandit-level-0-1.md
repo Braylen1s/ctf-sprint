@@ -14,5 +14,8 @@ find - searches for files and folders across directory tree based on names, size
 # What i learned 
 Simple commands to traverse the terminal
 
+# Pass for level
+Password: 6y2kwnwK6grgvwvpvLaa2T1cpFEKOhNR
+
 
 
