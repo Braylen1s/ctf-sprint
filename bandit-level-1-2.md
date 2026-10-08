@@ -5,8 +5,9 @@
 locate a file called "-" in the home directory
 
 # Commands
-ls
-cat
+ls- search for files and folders in current directory
+cat- displays contents of a file stated after the command
+
 
 
 # What I learned
